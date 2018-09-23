@@ -1,0 +1,12 @@
+com\virginblue\api\spring\interceptors\AuthInterceptor.class
+com\virginblue\api\spring\service\UserServiceImpl.class
+com\virginblue\api\spring\config\WebMvcConfig.class
+com\virginblue\api\spring\controller\UserController.class
+com\virginblue\api\spring\config\ApplicationContextConfig.class
+com\virginblue\api\spring\dao\UserDao.class
+com\virginblue\api\spring\dao\UserDaoImpl.class
+com\virginblue\api\spring\service\UserService.class
+com\virginblue\api\spring\config\SpringWebAppInitializer.class
+com\virginblue\api\spring\model\User.class
+com\virginblue\api\spring\config\DBConfig.class
+com\virginblue\api\spring\dao\AbstractDao.class
