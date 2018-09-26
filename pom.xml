@@ -5,7 +5,7 @@
     <artifactId>mobilewebspring</artifactId>
     <packaging>war</packaging>
     <version>0.0.1-SNAPSHOT</version>
-    <name>MobileWebSpring Maven Webapp</name>
+    <name>mobilewebspring Maven Webapp</name>
     <url>http://maven.apache.org</url>
    <dependencies>
  
@@ -156,6 +156,6 @@
                 </plugin>
             </plugins>
         </pluginManagement>
-        <finalName>MobileWebSpring</finalName>
+        <finalName>mobilewebspring</finalName>
     </build>
 </project>
